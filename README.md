@@ -1,4 +1,4 @@
-# SQL---Payroll-Calculation.
+# SQL---Payroll-Calculation
 DESCRIPTION
 An HR of the company wants to analyze the performance of the employees and calculate their salary.
 
